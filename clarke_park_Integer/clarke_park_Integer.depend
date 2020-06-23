@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591713035 source:c:\c\clarke_park_integer\clarke_park_integer.c
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<stdint.h>
+

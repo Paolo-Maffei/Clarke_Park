@@ -1,0 +1,102 @@
+Clarke Park direct and inverse 32bit integer
+angle = 0 0.0000
+Direct  => u=0 v=692 w=-692 a=0 b=799 d=0 q=d
+Inverse => u=0 v=691 w=-691 a=0 b=797 d=0 q=798
+angle = 10 0.1745
+Direct  => u=138 v=612 w=-751 a=138 b=786 d=0 q=d
+Inverse => u=138 v=611 w=-749 a=138 b=784 d=0 q=797
+angle = 20 0.3491
+Direct  => u=273 v=514 w=-787 a=273 b=751 d=0 q=d
+Inverse => u=273 v=513 w=-786 a=273 b=750 d=0 q=799
+angle = 30 0.5236
+Direct  => u=399 v=399 w=-799 a=399 b=691 d=0 q=d
+Inverse => u=399 v=398 w=-797 a=398 b=690 d=0 q=797
+angle = 40 0.6981
+Direct  => u=514 v=273 w=-787 a=514 b=611 d=0 q=d
+Inverse => u=514 v=272 w=-786 a=512 b=611 d=0 q=798
+angle = 50 0.8727
+Direct  => u=612 v=138 w=-751 a=612 b=513 d=0 q=d
+Inverse => u=612 v=138 w=-750 a=611 b=512 d=0 q=798
+angle = 60 1.0472
+Direct  => u=692 v=0 w=-692 a=692 b=399 d=0 q=d
+Inverse => u=692 v=0 w=-691 a=691 b=398 d=0 q=798
+angle = 70 1.2217
+Direct  => u=751 v=-138 w=-612 a=751 b=273 d=0 q=d
+Inverse => u=751 v=-139 w=-611 a=750 b=273 d=0 q=799
+angle = 80 1.3963
+Direct  => u=787 v=-273 w=-514 a=787 b=139 d=0 q=d
+Inverse => u=787 v=-273 w=-513 a=786 b=138 d=0 q=799
+angle = 90 1.5708
+Direct  => u=799 v=-399 w=-399 a=799 b=0 d=0 q=d
+Inverse => u=799 v=-399 w=-399 a=797 b=0 d=0 q=798
+angle = 100 1.7453
+Direct  => u=787 v=-514 w=-273 a=787 b=-139 d=0 q=d
+Inverse => u=787 v=-513 w=-273 a=786 b=-138 d=0 q=799
+angle = 110 1.9199
+Direct  => u=751 v=-612 w=-138 a=751 b=-273 d=0 q=d
+Inverse => u=751 v=-611 w=-139 a=750 b=-273 d=0 q=799
+angle = 120 2.0944
+Direct  => u=692 v=-692 w=0 a=692 b=-399 d=0 q=d
+Inverse => u=692 v=-691 w=0 a=691 b=-398 d=0 q=798
+angle = 130 2.2689
+Direct  => u=612 v=-751 w=138 a=612 b=-513 d=0 q=d
+Inverse => u=612 v=-750 w=138 a=611 b=-512 d=0 q=798
+angle = 140 2.4435
+Direct  => u=514 v=-787 w=273 a=514 b=-611 d=0 q=d
+Inverse => u=514 v=-786 w=272 a=512 b=-611 d=0 q=798
+angle = 150 2.6180
+Direct  => u=399 v=-799 w=399 a=399 b=-691 d=0 q=d
+Inverse => u=399 v=-797 w=398 a=398 b=-690 d=0 q=797
+angle = 160 2.7925
+Direct  => u=273 v=-787 w=514 a=273 b=-751 d=0 q=d
+Inverse => u=273 v=-786 w=513 a=273 b=-750 d=0 q=799
+angle = 170 2.9671
+Direct  => u=138 v=-751 w=612 a=138 b=-786 d=0 q=d
+Inverse => u=138 v=-749 w=611 a=138 b=-784 d=0 q=797
+angle = 180 3.1416
+Direct  => u=0 v=-692 w=692 a=0 b=-799 d=0 q=d
+Inverse => u=0 v=-691 w=691 a=0 b=-797 d=0 q=798
+angle = 190 3.3161
+Direct  => u=-138 v=-612 w=751 a=-138 b=-786 d=0 q=d
+Inverse => u=-138 v=-611 w=749 a=-138 b=-784 d=0 q=797
+angle = 200 3.4907
+Direct  => u=-273 v=-514 w=787 a=-273 b=-751 d=0 q=d
+Inverse => u=-273 v=-513 w=786 a=-273 b=-750 d=0 q=799
+angle = 210 3.6652
+Direct  => u=-399 v=-399 w=799 a=-399 b=-691 d=0 q=d
+Inverse => u=-399 v=-398 w=797 a=-398 b=-690 d=0 q=797
+angle = 220 3.8397
+Direct  => u=-514 v=-273 w=787 a=-514 b=-611 d=0 q=d
+Inverse => u=-514 v=-272 w=786 a=-512 b=-611 d=0 q=798
+angle = 230 4.0143
+Direct  => u=-612 v=-138 w=751 a=-612 b=-513 d=0 q=d
+Inverse => u=-612 v=-138 w=750 a=-611 b=-512 d=0 q=798
+angle = 240 4.1888
+Direct  => u=-692 v=0 w=692 a=-692 b=-399 d=0 q=d
+Inverse => u=-692 v=0 w=691 a=-691 b=-398 d=0 q=798
+angle = 250 4.3633
+Direct  => u=-751 v=138 w=612 a=-751 b=-273 d=0 q=d
+Inverse => u=-751 v=139 w=611 a=-750 b=-273 d=0 q=799
+angle = 260 4.5379
+Direct  => u=-787 v=273 w=514 a=-787 b=-139 d=0 q=d
+Inverse => u=-787 v=273 w=513 a=-786 b=-138 d=0 q=799
+angle = 270 4.7124
+Direct  => u=-799 v=399 w=399 a=-799 b=0 d=0 q=d
+Inverse => u=-799 v=399 w=399 a=-797 b=0 d=0 q=798
+angle = 280 4.8869
+Direct  => u=-787 v=514 w=273 a=-787 b=139 d=0 q=d
+Inverse => u=-787 v=513 w=273 a=-786 b=138 d=0 q=799
+angle = 290 5.0615
+Direct  => u=-751 v=612 w=138 a=-751 b=273 d=0 q=d
+Inverse => u=-751 v=611 w=139 a=-750 b=273 d=0 q=799
+angle = 300 5.2360
+Direct  => u=-692 v=692 w=0 a=-692 b=399 d=0 q=d
+Inverse => u=-692 v=691 w=0 a=-691 b=398 d=0 q=798
+angle = 310 5.4105
+Direct  => u=-612 v=751 w=-138 a=-612 b=513 d=0 q=d
+Inverse => u=-612 v=750 w=-138 a=-611 b=512 d=0 q=798
+angle = 320 5.5851
+Direct  => u=-514 v=787 w=-273 a=-514 b=611 d=0 q=d
+Inverse => u=-514 v=786 w=-272 a=-512 b=611 d=0 q=798
+angle = 330 5.7596
+Dire
