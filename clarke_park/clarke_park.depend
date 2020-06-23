@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591697400 source:c:\c\clarke_park\clarke_park.c
+	<stdio.h>
+	<math.h>
+
